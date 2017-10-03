@@ -1,6 +1,6 @@
 {
-  "errorCode": 0, 
-  "errorString": "ok", 
+  "errorCode": 0,
+  "errorString": "ok",
   "hotspots": [
     {
       "anchor": {
@@ -8,47 +8,16 @@
           "lat": 17.076683, 
           "lon": -96.744548
         }
-      }, 
-      "id": 1, 
+      },
+      "icon": {
+        "url": "https://github.com/EdgarBarrita/museosRA/blob/master/icono_museo.jpg"
+      },
+      "id": 1,
       "text": {
-        "title": "This is a basic POI"
+        "title": "Museo de Michoacán"
       }
     },
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 17.076683,
-          "lon": -96.744548
-        }
-      }, 
-      "icon": {
-        "url": "https://image.freepik.com/iconos-gratis/museo_318-104270.jpg"
-      }, 
-      "id": 2, 
-      "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
-      }
-    }, 
-    {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
-      "anchor": {
-        "geolocation": {
-          "lat": 52.3616716, 
-          "lon": 4.8930322
-        }
-      }, 
-      "id": 3, 
-      "text": {
-        "title": "This POI has an action"
-      }
-    }
-  ], 
-  "layer": ""
+  ],
+  "layer": "museos6yma"
 }
+      
