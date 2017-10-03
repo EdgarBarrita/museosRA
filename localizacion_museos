@@ -5,24 +5,24 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.3686716, 
-          "lon": 4.886032200000001
+          "lat": 17.076683, 
+          "lon": -96.744548
         }
       }, 
       "id": 1, 
       "text": {
         "title": "This is a basic POI"
       }
-    }, 
+    },
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.3686716, 
-          "lon": 4.9000322
+          "lat": 17.076683,
+          "lon": -96.744548
         }
       }, 
       "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+        "url": "https://image.freepik.com/iconos-gratis/museo_318-104270.jpg"
       }, 
       "id": 2, 
       "text": {
